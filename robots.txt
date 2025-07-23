@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://casino.superbet365.online/sitemap.xml
